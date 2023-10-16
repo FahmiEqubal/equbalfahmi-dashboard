@@ -1,71 +1,35 @@
-# Getting Started with Create React App
+# About Me
+### Project: React.js Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Project Repository:** [GitHub Repo] https://github.com/FahmiEqubal/equbalfahmi-dashboard/
+**Live Site:** [View Dashboard] https://fahmiequbal.github.io/equbalfahmi-dashboard/
 
-## Available Scripts
+Welcome to my GitHub profile! I'm passionate about web development and creating interactive, data-driven applications. I recently worked on a React.js dashboard project, and I'm excited to share it with you.
 
-In the project directory, you can run:
+### Project: React.js Dashboard
 
-### `npm start`
+**Project Repository:** https://github.com/FahmiEqubal/equbalfahmi-dashboard/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Project Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In my latest project, I've developed a dynamic dashboard using React.js. This dashboard provides users with a comprehensive overview of important data and statistics. Here's a breakdown of its key features:
 
-### `npm test`
+- **Sidebar**: A sleek sidebar that offers easy navigation to various sections of the dashboard.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Header**: The header section is designed for quick access and identification. It displays the user's name on the left, and on the right, there's a handy search box for finding specific data.
 
-### `npm run build`
+- **Dashboard Data Containers**: In the lower part of the dashboard, you'll find four containers, each presenting essential data and statistics. These containers give users a clear snapshot of the most crucial information.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Bar Graph**: One of the containers showcases a bar graph, which visualizes data fetched from (https://dummyjson.com/). This graph offers insights into your data in an engaging and informative manner.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Doughnut Chart**: In another container, there's a captivating doughnut chart that presents data in a visually appealing format. It provides a different perspective on the information at hand.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Product Sales Table**: At the bottom of the dashboard, there's a table that displays detailed information about product sales. It's a convenient way to view and analyze sales data.
 
-### `npm run eject`
+I'm continually working to enhance and improve this project, and I welcome any feedback or contributions. Feel free to explore the project repository for more details and to get involved in its development.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Thank you for visiting my GitHub profile and for showing interest in my work. If you have any questions or suggestions, don't hesitate to reach out. Let's collaborate and make this project even better!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contact Me
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Dashboard
+You can reach me on GitHub, and I'd be happy to connect and discuss my projects, web development, or any other topic you're interested in.
