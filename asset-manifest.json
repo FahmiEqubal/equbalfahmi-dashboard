@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/equbalfahmi-dashboard/static/css/main.14883b23.css",
+    "main.js": "/equbalfahmi-dashboard/static/js/main.a83b5efc.js",
+    "static/media/deo.jpeg": "/equbalfahmi-dashboard/static/media/deo.59df77f5336e360249b8.jpeg",
+    "index.html": "/equbalfahmi-dashboard/index.html",
+    "main.14883b23.css.map": "/equbalfahmi-dashboard/static/css/main.14883b23.css.map",
+    "main.a83b5efc.js.map": "/equbalfahmi-dashboard/static/js/main.a83b5efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14883b23.css",
+    "static/js/main.a83b5efc.js"
+  ]
+}
